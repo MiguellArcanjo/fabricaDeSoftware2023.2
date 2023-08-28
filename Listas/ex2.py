@@ -14,7 +14,7 @@ while True:
         listaDeTarefas.append(tarefa)
 
     elif op == 2:
-        print(f"Excutando: {listaDeTarefas.pop()}\n")
+        print(f"\nExecutando: {listaDeTarefas.pop()}\n")
 
     elif op == 3:
         print("Saindo...")

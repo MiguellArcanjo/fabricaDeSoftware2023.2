@@ -6,4 +6,4 @@ calcPreta = canetaPreta * 2.5
 
 valorFinal = calcAzul + canetaPreta
 
-print(f"A quantidade final a ser paga é R$: {valorFinal}")
+print(f"A quantidade final a ser paga é R$: {valorFinal}.")

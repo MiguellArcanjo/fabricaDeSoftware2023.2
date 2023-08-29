@@ -17,7 +17,7 @@ while True:
         print(f"\nExecutando: {listaDeTarefas.pop()}\n")
 
     elif op == 3:
-        print("Saindo...")
+        print("Saindo....")
         time.sleep(2)
         break
 

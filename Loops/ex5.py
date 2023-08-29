@@ -6,4 +6,5 @@ while True:
     else:
         continue
 
-    
+# for _ in iter(int, 1):
+#     print("EU sou lindo")

@@ -13,5 +13,5 @@ while True:
         else:
             mulheres.append(sexo)
     
-print(f"A quantidade de mulheres foi: {len(mulheres)}")
+print(f"A quantidade de mulheres foi: {len(mulheres)}.")
 print(f"A quantidade de Homens foi: {len(homens)}")

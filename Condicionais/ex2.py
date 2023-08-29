@@ -6,5 +6,5 @@ if velocidade > 80:
     print("Sua multa é de R$: ", calc)
 
 else:
-    print("Você não foi mutado.")
+    print("Você não foi mutado")
 

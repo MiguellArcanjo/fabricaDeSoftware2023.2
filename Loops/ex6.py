@@ -8,4 +8,4 @@ while True:
     else:
         break
 
-print(f"a soma de todos os números: {sum(numeros)}")
+print(f"a soma de todos os números: {sum(numeros)}.")
